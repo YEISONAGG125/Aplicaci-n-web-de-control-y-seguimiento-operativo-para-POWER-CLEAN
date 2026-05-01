@@ -4,7 +4,7 @@ El proyecto “Aplicación Web de Control y Seguimiento Operativo para la empres
 Esta aplicación busca mejorar la comunicación interna, optimizar la asignación de tareas y garantizar un mejor control de los recursos y servicios. A través de un sistema de autenticación (login con correo y contraseña), los usuarios podrán acceder a diferentes funciones según su rol (empleado, supervisor o administrador).
 
 Cómo ejecutarlo:
-Tener un navegador para descargar la aplicacion y poder aceder al citio web
+Tener un navegador para descargar la aplicacion y poder aceder al sitio web
 
 Autores:
 Duván Felipe González González
